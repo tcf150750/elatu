@@ -1,0 +1,9 @@
+.box {
+	background: url(images/美食图标2.png) no-repeat top;
+	background-size: 100% 100%;
+	width: 100%;
+    height: 290px;
+}
+.inner {
+	background-color: #FAF2E1
+}
